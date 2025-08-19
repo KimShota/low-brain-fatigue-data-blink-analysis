@@ -1,0 +1,7 @@
+Variable A,Variable B,Interaction name,R Squared,P values for interaction,Significant
+Blink Duration,Blink Frequency,interaction_Blink_Duration_Blink_Frequency,0.0016220232016381786,,No
+Blink Duration,Blink Flurries,interaction_Blink_Duration_Blink_Flurries,0.0008908969601107986,,No
+Blink Duration,Inter-blink intervals,interaction_Blink_Duration_Inter-blink_intervals,0.0023476606682041323,,No
+Blink Frequency,Blink Flurries,interaction_Blink_Frequency_Blink_Flurries,0.0032245303061253505,,No
+Blink Frequency,Inter-blink intervals,interaction_Blink_Frequency_Inter-blink_intervals,0.01200046689872003,,No
+Blink Flurries,Inter-blink intervals,interaction_Blink_Flurries_Inter-blink_intervals,0.011720345153118816,,No
